@@ -255,6 +255,7 @@ def process_relation_triplet(triplet):
 def preprocess_question(question):
     #remove 's
     question = question.replace('\'s','')
+    question = question.replace('ing','')
 
     # remove articles: a, an, the
 
@@ -292,7 +293,7 @@ def main():
     triples = cl.extract_triples(sents)
 
     for t in triples:
-        print(t.subject,'$$',t.predicate,'$$',t.object)
+        #print(t.subject,'$$',t.predicate,'$$',t.object)
         process_relation_triplet(t)
 
 
@@ -305,9 +306,11 @@ def answer_question(question_string):
 
         if question[-1] != '?':
             print('This is not a question... please try again')
+    #print([preprocess_question(question)])
 
     q_trip = cl.extract_triples([preprocess_question(question)])[0]
     answers = []
+
 
     # (WHO, has, PET)
     # answer for pets
@@ -327,7 +330,7 @@ def answer_question(question_string):
                     answers.append(answer.format(person.name, 'cat', pet.name))
 
     # who travel to someplace
-    if q_trip.subject.lower() == 'who' and q_trip.predicate in ['going', 'flying', 'traveling', 'visiting']:
+    if q_trip.subject.lower() == 'who' and q_trip.predicate in ['going', 'flying', 'traveling', 'visiting','go','fly','travel','visit']:
         answer = '{} travel to {} in {}'
         trip = select_trip(q_trip.object.lower())
         for person in persons:
@@ -364,7 +367,7 @@ def answer_question(question_string):
 
 
     # when to travel
-    if question[0:4] in ['when', 'When'] and q_trip.predicate in ['be flying', 'be traveling', 'be going','flying', 'traveling', 'going']:
+    if question[0:4] in ['when', 'When'] and q_trip.predicate in ['be flying', 'be traveling', 'be going','flying', 'traveling', 'going','go','travel','fly']:
         sub_person = select_person(q_trip.subject)
         answer = 'depart on {}'
         des_ = select_trip(q_trip.object.lower())
