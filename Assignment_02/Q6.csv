@@ -1,0 +1,165 @@
+,opponent Team Name,game date,stadium name,city,state
+0,NYY,2016-04-04T00:00:00,Yankee Stadium,New York,NY
+1,NYY,2016-04-05T00:00:00,Yankee Stadium,New York,NY
+2,NYY,2016-04-06T00:00:00,Yankee Stadium,New York,NY
+3,NYY,2016-04-07T00:00:00,Yankee Stadium,New York,NY
+4,MIL,2016-04-08T00:00:00,Miller Park,Milwaukee,WI
+5,MIL,2016-04-09T00:00:00,Miller Park,Milwaukee,WI
+6,MIL,2016-04-10T00:00:00,Miller Park,Milwaukee,WI
+0,KC,2016-04-11T00:00:00,Minute Maid Park,Houston,TX
+1,KC,2016-04-12T00:00:00,Minute Maid Park,Houston,TX
+2,KC,2016-04-13T00:00:00,Minute Maid Park,Houston,TX
+3,KC,2016-04-14T00:00:00,Minute Maid Park,Houston,TX
+4,DET,2016-04-15T00:00:00,Minute Maid Park,Houston,TX
+5,DET,2016-04-16T00:00:00,Minute Maid Park,Houston,TX
+6,DET,2016-04-17T00:00:00,Minute Maid Park,Houston,TX
+7,TEX,2016-04-19T00:00:00,Globe Life Park in Arlington,Arlington,TX
+8,TEX,2016-04-20T00:00:00,Globe Life Park in Arlington,Arlington,TX
+9,TEX,2016-04-21T00:00:00,Globe Life Park in Arlington,Arlington,TX
+7,BOS,2016-04-22T00:00:00,Minute Maid Park,Houston,TX
+8,BOS,2016-04-23T00:00:00,Minute Maid Park,Houston,TX
+9,BOS,2016-04-24T00:00:00,Minute Maid Park,Houston,TX
+10,SEA,2016-04-25T00:00:00,Safeco Field,Seattle,WA
+11,SEA,2016-04-26T00:00:00,Safeco Field,Seattle,WA
+12,SEA,2016-04-27T00:00:00,Safeco Field,Seattle,WA
+13,OAK,2016-04-29T00:00:00,O.co Coliseum,Oakland,CA
+14,OAK,2016-04-30T00:00:00,O.co Coliseum,Oakland,CA
+15,OAK,2016-05-01T00:00:00,O.co Coliseum,Oakland,CA
+10,MIN,2016-05-02T00:00:00,Minute Maid Park,Houston,TX
+11,MIN,2016-05-03T00:00:00,Minute Maid Park,Houston,TX
+12,MIN,2016-05-04T00:00:00,Minute Maid Park,Houston,TX
+13,SEA,2016-05-05T00:00:00,Minute Maid Park,Houston,TX
+14,SEA,2016-05-06T00:00:00,Minute Maid Park,Houston,TX
+15,SEA,2016-05-07T00:00:00,Minute Maid Park,Houston,TX
+16,SEA,2016-05-08T00:00:00,Minute Maid Park,Houston,TX
+17,CLE,2016-05-09T00:00:00,Minute Maid Park,Houston,TX
+18,CLE,2016-05-10T00:00:00,Minute Maid Park,Houston,TX
+19,CLE,2016-05-11T00:00:00,Minute Maid Park,Houston,TX
+16,BOS,2016-05-12T00:00:00,Fenway Park,Boston,MA
+17,BOS,2016-05-13T00:00:00,Fenway Park,Boston,MA
+18,BOS,2016-05-14T00:00:00,Fenway Park,Boston,MA
+19,BOS,2016-05-15T00:00:00,Fenway Park,Boston,MA
+20,CHW,2016-05-17T00:00:00,U.S. Cellular Field,Chicago,IL
+21,CHW,2016-05-18T00:00:00,U.S. Cellular Field,Chicago,IL
+22,CHW,2016-05-19T00:00:00,U.S. Cellular Field,Chicago,IL
+20,TEX,2016-05-20T00:00:00,Minute Maid Park,Houston,TX
+21,TEX,2016-05-21T00:00:00,Minute Maid Park,Houston,TX
+22,TEX,2016-05-22T00:00:00,Minute Maid Park,Houston,TX
+23,BAL,2016-05-24T00:00:00,Minute Maid Park,Houston,TX
+24,BAL,2016-05-25T00:00:00,Minute Maid Park,Houston,TX
+25,BAL,2016-05-26T00:00:00,Minute Maid Park,Houston,TX
+23,LAA,2016-05-27T00:00:00,Angel Stadium of Anaheim,Anaheim,CA
+24,LAA,2016-05-28T00:00:00,Angel Stadium of Anaheim,Anaheim,CA
+25,LAA,2016-05-29T00:00:00,Angel Stadium of Anaheim,Anaheim,CA
+26,ARI,2016-05-30T00:00:00,Chase Field,Phoenix,AZ
+27,ARI,2016-05-31T00:00:00,Chase Field,Phoenix,AZ
+26,ARI,2016-06-01T00:00:00,Minute Maid Park,Houston,TX
+27,ARI,2016-06-02T00:00:00,Minute Maid Park,Houston,TX
+28,OAK,2016-06-03T00:00:00,Minute Maid Park,Houston,TX
+29,OAK,2016-06-04T00:00:00,Minute Maid Park,Houston,TX
+30,OAK,2016-06-05T00:00:00,Minute Maid Park,Houston,TX
+28,TEX,2016-06-06T00:00:00,Globe Life Park in Arlington,Arlington,TX
+29,TEX,2016-06-07T00:00:00,Globe Life Park in Arlington,Arlington,TX
+30,TEX,2016-06-08T00:00:00,Globe Life Park in Arlington,Arlington,TX
+31,TEX,2016-06-09T00:00:00,Globe Life Park in Arlington,Arlington,TX
+32,TB,2016-06-10T00:00:00,Tropicana Field,St. Petersburg,FL
+33,TB,2016-06-11T00:00:00,Tropicana Field,St. Petersburg,FL
+34,TB,2016-06-12T00:00:00,Tropicana Field,St. Petersburg,FL
+35,STL,2016-06-14T00:00:00,Busch Stadium,St. Louis,MO
+36,STL,2016-06-15T00:00:00,Busch Stadium,St. Louis,MO
+31,CIN,2016-06-17T00:00:00,Minute Maid Park,Houston,TX
+32,CIN,2016-06-18T00:00:00,Minute Maid Park,Houston,TX
+33,CIN,2016-06-19T00:00:00,Minute Maid Park,Houston,TX
+34,LAA,2016-06-20T00:00:00,Minute Maid Park,Houston,TX
+35,LAA,2016-06-21T00:00:00,Minute Maid Park,Houston,TX
+36,LAA,2016-06-22T00:00:00,Minute Maid Park,Houston,TX
+37,KC,2016-06-24T00:00:00,Kauffman Stadium,Kansas City,MO
+38,KC,2016-06-25T00:00:00,Kauffman Stadium,Kansas City,MO
+39,KC,2016-06-26T00:00:00,Kauffman Stadium,Kansas City,MO
+40,LAA,2016-06-27T00:00:00,Angel Stadium of Anaheim,Anaheim,CA
+41,LAA,2016-06-28T00:00:00,Angel Stadium of Anaheim,Anaheim,CA
+42,LAA,2016-06-29T00:00:00,Angel Stadium of Anaheim,Anaheim,CA
+37,CHW,2016-07-01T00:00:00,Minute Maid Park,Houston,TX
+38,CHW,2016-07-02T00:00:00,Minute Maid Park,Houston,TX
+39,CHW,2016-07-03T00:00:00,Minute Maid Park,Houston,TX
+40,SEA,2016-07-04T00:00:00,Minute Maid Park,Houston,TX
+41,SEA,2016-07-05T00:00:00,Minute Maid Park,Houston,TX
+42,SEA,2016-07-06T00:00:00,Minute Maid Park,Houston,TX
+43,OAK,2016-07-07T00:00:00,Minute Maid Park,Houston,TX
+44,OAK,2016-07-08T00:00:00,Minute Maid Park,Houston,TX
+45,OAK,2016-07-09T00:00:00,Minute Maid Park,Houston,TX
+46,OAK,2016-07-10T00:00:00,Minute Maid Park,Houston,TX
+43,SEA,2016-07-15T00:00:00,Safeco Field,Seattle,WA
+44,SEA,2016-07-16T00:00:00,Safeco Field,Seattle,WA
+45,SEA,2016-07-17T00:00:00,Safeco Field,Seattle,WA
+46,OAK,2016-07-18T00:00:00,O.co Coliseum,Oakland,CA
+47,OAK,2016-07-19T00:00:00,O.co Coliseum,Oakland,CA
+48,OAK,2016-07-20T00:00:00,O.co Coliseum,Oakland,CA
+47,LAA,2016-07-22T00:00:00,Minute Maid Park,Houston,TX
+48,LAA,2016-07-23T00:00:00,Minute Maid Park,Houston,TX
+49,LAA,2016-07-24T00:00:00,Minute Maid Park,Houston,TX
+50,NYY,2016-07-25T00:00:00,Minute Maid Park,Houston,TX
+51,NYY,2016-07-26T00:00:00,Minute Maid Park,Houston,TX
+52,NYY,2016-07-27T00:00:00,Minute Maid Park,Houston,TX
+49,DET,2016-07-29T00:00:00,Comerica Park,Detroit,MI
+50,DET,2016-07-30T00:00:00,Comerica Park,Detroit,MI
+51,DET,2016-07-31T00:00:00,Comerica Park,Detroit,MI
+53,TOR,2016-08-01T00:00:00,Minute Maid Park,Houston,TX
+54,TOR,2016-08-02T00:00:00,Minute Maid Park,Houston,TX
+55,TOR,2016-08-03T00:00:00,Minute Maid Park,Houston,TX
+56,TOR,2016-08-04T00:00:00,Minute Maid Park,Houston,TX
+57,TEX,2016-08-05T00:00:00,Minute Maid Park,Houston,TX
+58,TEX,2016-08-06T00:00:00,Minute Maid Park,Houston,TX
+59,TEX,2016-08-07T00:00:00,Minute Maid Park,Houston,TX
+52,MIN,2016-08-08T00:00:00,Target Field,Minneapolis,MN
+53,MIN,2016-08-09T00:00:00,Target Field,Minneapolis,MN
+54,MIN,2016-08-10T00:00:00,Target Field,Minneapolis,MN
+56,MIN,2016-08-11T00:00:00,Target Field,Minneapolis,MN
+55,MIN,2016-08-11T00:00:00,Target Field,Minneapolis,MN
+57,TOR,2016-08-12T00:00:00,Rogers Centre,Toronto,ON
+58,TOR,2016-08-13T00:00:00,Rogers Centre,Toronto,ON
+59,TOR,2016-08-14T00:00:00,Rogers Centre,Toronto,ON
+60,STL,2016-08-16T00:00:00,Minute Maid Park,Houston,TX
+61,STL,2016-08-17T00:00:00,Minute Maid Park,Houston,TX
+60,BAL,2016-08-18T00:00:00,Oriole Park at Camden Yards,Baltimore,MD
+61,BAL,2016-08-19T00:00:00,Oriole Park at Camden Yards,Baltimore,MD
+62,BAL,2016-08-20T00:00:00,Oriole Park at Camden Yards,Baltimore,MD
+63,BAL,2016-08-21T00:00:00,Oriole Park at Camden Yards,Baltimore,MD
+64,PIT,2016-08-22T00:00:00,PNC Park,Pittsburgh,PA
+65,PIT,2016-08-23T00:00:00,PNC Park,Pittsburgh,PA
+66,PIT,2016-08-24T00:00:00,PNC Park,Pittsburgh,PA
+62,TB,2016-08-26T00:00:00,Minute Maid Park,Houston,TX
+63,TB,2016-08-27T00:00:00,Minute Maid Park,Houston,TX
+64,TB,2016-08-28T00:00:00,Minute Maid Park,Houston,TX
+65,OAK,2016-08-29T00:00:00,Minute Maid Park,Houston,TX
+66,OAK,2016-08-30T00:00:00,Minute Maid Park,Houston,TX
+67,OAK,2016-08-31T00:00:00,Minute Maid Park,Houston,TX
+67,TEX,2016-09-02T00:00:00,Globe Life Park in Arlington,Arlington,TX
+68,TEX,2016-09-03T00:00:00,Globe Life Park in Arlington,Arlington,TX
+69,TEX,2016-09-04T00:00:00,Globe Life Park in Arlington,Arlington,TX
+70,CLE,2016-09-05T00:00:00,Progressive Field,Cleveland,OH
+71,CLE,2016-09-06T00:00:00,Progressive Field,Cleveland,OH
+72,CLE,2016-09-07T00:00:00,Progressive Field,Cleveland,OH
+73,CLE,2016-09-08T00:00:00,Progressive Field,Cleveland,OH
+68,CHC,2016-09-09T00:00:00,Minute Maid Park,Houston,TX
+69,CHC,2016-09-10T00:00:00,Minute Maid Park,Houston,TX
+70,CHC,2016-09-11T00:00:00,Minute Maid Park,Houston,TX
+71,TEX,2016-09-12T00:00:00,Minute Maid Park,Houston,TX
+72,TEX,2016-09-13T00:00:00,Minute Maid Park,Houston,TX
+73,TEX,2016-09-14T00:00:00,Minute Maid Park,Houston,TX
+74,SEA,2016-09-16T00:00:00,Safeco Field,Seattle,WA
+75,SEA,2016-09-17T00:00:00,Safeco Field,Seattle,WA
+76,SEA,2016-09-18T00:00:00,Safeco Field,Seattle,WA
+77,OAK,2016-09-19T00:00:00,O.co Coliseum,Oakland,CA
+78,OAK,2016-09-20T00:00:00,O.co Coliseum,Oakland,CA
+79,OAK,2016-09-21T00:00:00,O.co Coliseum,Oakland,CA
+74,LAA,2016-09-22T00:00:00,Minute Maid Park,Houston,TX
+75,LAA,2016-09-23T00:00:00,Minute Maid Park,Houston,TX
+76,LAA,2016-09-24T00:00:00,Minute Maid Park,Houston,TX
+77,LAA,2016-09-25T00:00:00,Minute Maid Park,Houston,TX
+78,SEA,2016-09-26T00:00:00,Minute Maid Park,Houston,TX
+79,SEA,2016-09-27T00:00:00,Minute Maid Park,Houston,TX
+80,SEA,2016-09-28T00:00:00,Minute Maid Park,Houston,TX
+80,LAA,2016-09-30T00:00:00,Angel Stadium of Anaheim,Anaheim,CA
+81,LAA,2016-10-01T00:00:00,Angel Stadium of Anaheim,Anaheim,CA
+82,LAA,2016-10-02T00:00:00,Angel Stadium of Anaheim,Anaheim,CA
