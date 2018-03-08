@@ -3199,3 +3199,96 @@ Unable to read VR Path Registry from C:\Users\Li\AppData\Local\openvr\openvrpath
 1520480103145	Marionette	WARN	TLS certificate errors will be ignored for this session
 JavaScript warning: https://www.mlbstatic.com/mlb.com/builds/site-core/52f9b8565cbfb77a553ebe8075945729d3a1bcd3_1520020797/scripts/site-core.js, line 22: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
 JavaScript warning: https://www.mlbstatic.com/mlb.com/builds/site-core/52f9b8565cbfb77a553ebe8075945729d3a1bcd3_1520020797/scripts/site-core.js, line 22: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1520482008177	geckodriver	INFO	geckodriver 0.19.1
+1520482008177	geckodriver	INFO	Listening on 127.0.0.1:58433
+1520482011217	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Li\\AppData\\Local\\Temp\\rust_mozprofile.95LiMTfm5eFp"
+Unable to read VR Path Registry from C:\Users\Li\AppData\Local\openvr\openvrpaths.vrpath
+1520482011735	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Li\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Li\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Li\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Li\AppData\Local\openvr\openvrpaths.vrpath
+1520482012970	Marionette	INFO	Listening on port 58445
+1520482013277	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.mlbstatic.com/mlb.com/builds/site-core/52f9b8565cbfb77a553ebe8075945729d3a1bcd3_1520020797/scripts/site-core.js, line 22: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.mlbstatic.com/mlb.com/builds/site-core/52f9b8565cbfb77a553ebe8075945729d3a1bcd3_1520020797/scripts/site-core.js, line 22: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1520482032965	geckodriver	INFO	geckodriver 0.19.1
+1520482032981	geckodriver	INFO	Listening on 127.0.0.1:58830
+1520482036040	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Li\\AppData\\Local\\Temp\\rust_mozprofile.0Y9pe5Qyr1IO"
+Unable to read VR Path Registry from C:\Users\Li\AppData\Local\openvr\openvrpaths.vrpath
+1520482036542	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Li\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Li\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Li\AppData\Local\openvr\openvrpaths.vrpath
+1520482037706	Marionette	INFO	Listening on port 58842
+Unable to read VR Path Registry from C:\Users\Li\AppData\Local\openvr\openvrpaths.vrpath
+1520482038085	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.mlbstatic.com/mlb.com/builds/site-core/52f9b8565cbfb77a553ebe8075945729d3a1bcd3_1520020797/scripts/site-core.js, line 22: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.mlbstatic.com/mlb.com/builds/site-core/52f9b8565cbfb77a553ebe8075945729d3a1bcd3_1520020797/scripts/site-core.js, line 22: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://adadvisor.net/adscores/g.js?sid=9276253823, line 1: SyntaxError: expected expression, got '<'
+[Parent 16360, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8060, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8060, Chrome_Ch[Child 15812, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15812, Ch
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1520482192558	geckodriver	INFO	geckodriver 0.19.1
+1520482192558	geckodriver	INFO	Listening on 127.0.0.1:59703
+1520482195638	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Li\\AppData\\Local\\Temp\\rust_mozprofile.Nvyfh40a0liW"
+Unable to read VR Path Registry from C:\Users\Li\AppData\Local\openvr\openvrpaths.vrpath
+1520482196157	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Li\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Li\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Li\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Li\AppData\Local\openvr\openvrpaths.vrpath
+1520482197267	Marionette	INFO	Listening on port 59715
+1520482197698	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.mlbstatic.com/mlb.com/builds/site-core/52f9b8565cbfb77a553ebe8075945729d3a1bcd3_1520020797/scripts/site-core.js, line 22: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.mlbstatic.com/mlb.com/builds/site-core/52f9b8565cbfb77a553ebe8075945729d3a1bcd3_1520020797/scripts/site-core.js, line 22: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1520482217929	geckodriver	INFO	geckodriver 0.19.1
+1520482217936	geckodriver	INFO	Listening on 127.0.0.1:60114
+1520482221004	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Li\\AppData\\Local\\Temp\\rust_mozprofile.9BveQZRZCy78"
+Unable to read VR Path Registry from C:\Users\Li\AppData\Local\openvr\openvrpaths.vrpath
+1520482221602	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Li\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Li\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Li\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Li\AppData\Local\openvr\openvrpaths.vrpath
+1520482222907	Marionette	INFO	Listening on port 60126
+1520482223050	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.mlbstatic.com/mlb.com/builds/site-core/52f9b8565cbfb77a553ebe8075945729d3a1bcd3_1520020797/scripts/site-core.js, line 22: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.mlbstatic.com/mlb.com/builds/site-core/52f9b8565cbfb77a553ebe8075945729d3a1bcd3_1520020797/scripts/site-core.js, line 22: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://adadvisor.net/adscores/g.js?sid=9276253823, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://fw.adsafeprotected.com/rjss/bs.serving-sys.com/142142/22670391/BurstingPipe/adServer.bs?cn=rsb&c=28&pli=24095686&PluID=0&w=728&h=90&ncu=$$https://adclick.g.doubleclick.net/pcs/click?xai=AKAOjss89Ixt3_Y9zGZ2kFAb-Ll9PVSBNoY0h_A5DGU35o6BvgsyKT5vfBUa30DWx8DpWrNu6mkEBTUj-n9OpmbOWgLwPC-uK3REGpWPMa54KgKD7CXz2jgoiySZCTuEDnU-GDRvRmu-CB6XRTfmVWqKEDDHjLEkJ-C4CNdzRMiyhRnHyMwhAVvya3P8ApDXNeWKTaABeGmoza4SX11f3PUoN73qKiC7qcc9ed6fSA-VQP2aHSQCOBbwj3CVtqVL&sig=Cg0ArKJSzAhyNwKetbXpEAE&urlfix=1&adurl=$$&ord=2111801444&ucm=true, line 257: NS_ERROR_NOT_INITIALIZED: 
+[Parent 13376, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18604, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18604, Chrome_ChildThread] W[GPU 16892, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1520482368251	geckodriver	INFO	geckodriver 0.19.1
+1520482368251	geckodriver	INFO	Listening on 127.0.0.1:60961
+1520482371310	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Li\\AppData\\Local\\Temp\\rust_mozprofile.HJjiCUOkhRJe"
+Unable to read VR Path Registry from C:\Users\Li\AppData\Local\openvr\openvrpaths.vrpath
+1520482371903	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Li\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Li\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Li\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Li\AppData\Local\openvr\openvrpaths.vrpath
+1520482373048	Marionette	INFO	Listening on port 60973
+1520482373387	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.mlbstatic.com/mlb.com/builds/site-core/52f9b8565cbfb77a553ebe8075945729d3a1bcd3_1520020797/scripts/site-core.js, line 22: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.mlbstatic.com/mlb.com/builds/site-core/52f9b8565cbfb77a553ebe8075945729d3a1bcd3_1520020797/scripts/site-core.js, line 22: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1520482393267	geckodriver	INFO	geckodriver 0.19.1
+1520482393267	geckodriver	INFO	Listening on 127.0.0.1:61345
+1520482396355	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Li\\AppData\\Local\\Temp\\rust_mozprofile.eliWIA5Ygjql"
+Unable to read VR Path Registry from C:\Users\Li\AppData\Local\openvr\openvrpaths.vrpath
+1520482396851	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Li\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Li\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Li\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Li\AppData\Local\openvr\openvrpaths.vrpath
+1520482397950	Marionette	INFO	Listening on port 61357
+1520482398391	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.mlbstatic.com/mlb.com/builds/site-core/52f9b8565cbfb77a553ebe8075945729d3a1bcd3_1520020797/scripts/site-core.js, line 22: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.mlbstatic.com/mlb.com/builds/site-core/52f9b8565cbfb77a553ebe8075945729d3a1bcd3_1520020797/scripts/site-core.js, line 22: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead

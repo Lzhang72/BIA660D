@@ -153,14 +153,18 @@ normal_delay = random.normalvariate(1, 0.5)
 time.sleep(normal_delay)
 sp_hitting_team = driver.find_element_by_id('sp_hitting_team_id')
 Select(sp_hitting_team).select_by_visible_text('New York Yankees')
-
+normal_delay = random.normalvariate(1, 0.5)
+time.sleep(normal_delay)
+sort = driver.find_element_by_css_selector('th.dg-avg > abbr:nth-child(1)')
+sort.click()
 #extract data
 dfQ3 = extract_stats_data(driver)
-dfQ3a = dfQ3.loc[dfQ3['AB'].apply(pandas.to_numeric, errors='ignore') >= 30].sort_values(by = ['AVG'], ascending = False)
+dfQ3a = dfQ3.loc[dfQ3['AB'].apply(pandas.to_numeric, errors='ignore') >= 30]
 player_name = dfQ3a.iloc[0,1]
+#print(dfQ3a)
 
 #answer question
-print('The answer for the Q3a is :',' ',player_name.strip('\xa0'),'position:',dfQ3a.iloc[0,5])
+print('The answer for the Q3a is :',' ',player_name,'position:',dfQ3a.iloc[0,5])
 
 dfQ3b1 = dfQ3.loc[dfQ3['Pos'] == 'RF']
 dfQ3b2 = dfQ3.loc[dfQ3['Pos'] == 'CF']
@@ -172,6 +176,7 @@ print('the answer for the Q3b is :',dfQ3b.iloc[0,1],'position:',dfQ3b.iloc[0,5])
 
 #archive the data to CSV file
 dfQ3.to_csv('Q3.csv')
+dfQ3a.to_csv('Q3a.csv')
 
 #close the drive
 driver.close()
