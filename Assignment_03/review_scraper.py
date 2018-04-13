@@ -1,4 +1,4 @@
-# This is the scraper for amazon review, the feature I scrap are review rating, review title, reviewer name, review date,review content, validated purchase only, 2017 and 2018
+# This is the scraper for amazon review, the feature I scrap are review rating, review title, reviewer name, review date,review content, validated purchase only, 2017 and 2018.
 from selenium import webdriver
 from selenium.webdriver.support.select import Select
 from selenium.webdriver import ActionChains
